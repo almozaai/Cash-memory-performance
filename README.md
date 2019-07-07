@@ -2,7 +2,7 @@
 
 [![N|Solid](https://marketing-prod.global.ssl.fastly.net/sites/default/files/2018-02/MiSKGALogoLockup_2.png)](https://nodesource.com/products/nsolid)
 
-# Cash Memory Performance
+# Catch Memory Performance
 This game it is last project to get three months JS course certificate by GA
 
 ### the porpuse of this game
